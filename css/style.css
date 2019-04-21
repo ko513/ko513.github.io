@@ -1,0 +1,109 @@
+
+		body {
+			background: url(../images/bg-image2.jpg);
+			background-size: cover;
+		}
+
+		.navbar-brand .mb-1 .h1 {	float: left; }
+
+    .bg-dark { background-color: #2b292d !important; }
+
+
+    #navbarSupportedContent { justify-content: center; }
+
+    .navbar-right { float: right; }
+
+    #my-navbar-content {
+      width: 940px;
+      justify-content: space-between;
+    }
+
+		.container {
+			background: rgba(255, 255, 255, 0.5);
+			border-radius: 15px;
+			margin: 20px auto;
+			padding: 20px 20px;
+			overflow: auto;
+			width: 960px;
+		}
+
+		h1 { color: #554b5a; }
+
+		hr {
+			background-color: #554b5a;
+			border: none;
+			height: 2px;
+		}
+
+		.row { margin-top: 10px; }
+
+    .col-md-4 {
+      text-align: center;
+    }
+
+		.row .caption {
+  		  font-family: railway;
+			font-size: 16px;
+			color: #554b5a;
+			padding: 4px 0px;
+			text-align: center;
+		}
+
+    .repo-link {
+      font-size: 14px;
+      color: #2f4ca3;
+      margin: 0px 10px;
+    }
+
+
+
+		/*  =====  ABOUT ME  =====  */
+
+		.img-thumbnail {
+  		  border: none;
+  		  box-shadow: 3px 3px 5px 1px #778;
+  		  padding: 0px;
+			margin: 0px 10px 10px 0px;
+			float: left;
+		}
+
+
+
+		/*	=====  CONTACT PAGE	=====	*/
+		
+		label {
+			font-family: sans-serif;
+			font-size: 12px;
+			color: #999;
+		}
+		
+		input, textarea {
+			margin: 5px 0px 15px;
+			width: 99%;
+		}
+		
+		textarea {
+			border: 1px solid #d6d6d6;
+			margin: 5px 0px;
+			height: 200px;
+		}
+		
+		button {
+			background-color: #2f4ca3;
+			color: white;
+			font-size: 12px;
+			padding: 5px 15px;
+		}
+
+
+
+		/*	=====  TEXT	=====	*/
+		
+    @font-face {
+      font-family: "railway";
+      src: url(../fonts/railway.otf) }
+
+
+
+
+
