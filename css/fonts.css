@@ -1,0 +1,32 @@
+
+@font-face {
+  font-family: 'font1-bold';
+  src: url(../fonts/Bitstream-Vera-Sans-Bold.ttf) format('truetype'); 
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'font1-bold-oblique';
+  src: url(../fonts/Bitstream-Vera-Sans-Bold-Oblique.ttf) format('truetype'); 
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'font1-roman';
+  src: url(../fonts/Bitstream-Vera-Sans-Roman.ttf) format('truetype'); 
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'font1-roman-oblique';
+  src: url(../fonts/Bitstream-Vera-Sans-Roman-Oblique.ttf) format('truetype'); 
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}

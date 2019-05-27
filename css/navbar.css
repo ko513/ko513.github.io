@@ -1,0 +1,17 @@
+
+.navbar-brand.mb-1.h1 {	margin-top: 0.25rem; }
+
+.bg-dark {
+  background-color: #2b292d !important;
+  border-radius: 5px;
+}
+
+#navbarSupportedContent { justify-content: center; }
+
+.navbar-right { float: right; }
+
+#my-navbar-content {
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}

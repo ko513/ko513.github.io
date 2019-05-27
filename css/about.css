@@ -1,0 +1,102 @@
+
+#page-header1 {
+  border-bottom: 1px solid #222;
+  font-size: 1.25em;
+  font-variant-caps: small-caps;
+  padding-bottom: 5px;
+}
+
+#ph1-name { font-family: font1-bold; }
+
+#ph1-phone {
+  font-size: 0.8em;
+  float: right;
+}
+
+#ph1-subtext {
+  font-size: 0.9em;
+  padding-top: 5px;
+}
+
+#ph1-email { float: left; }
+#ph1-website { float: right; }
+
+
+.page-header2 {
+  border-bottom: 1px solid #222;
+  font-size: 1.25em;
+  font-variant-caps: small-caps;
+  margin-top: 2em;
+  padding-bottom: 5px;
+}
+
+.ph2-name { font-family: font1-bold; }
+.ph2-pagenum { font-size: 0.8em; float: right; }
+
+
+/*  Second paragraph of bulleted list item  */
+#skills-abilities-list ul li:nth-of-type(2) { list-style-type: none; }
+
+
+/*  Company & job descriptions  */
+.company-name-location {
+  border-bottom: 1px solid black;
+  padding-bottom: 1px;
+  margin-bottom: 5px;
+}
+
+.company-name { font-family: font1-bold-oblique; }
+
+.company-description, .job-title, .job-description ul { margin-left: 25px; }
+
+.company-description {
+  font-family: font1-bold-oblique;
+  font-size: .95em;
+  line-height: 2.5em;
+}
+
+.company-dates {
+  font-family: font1-bold;
+  font-size: 0.8em;
+  float: right;
+}
+
+.job-title { font-family: font1-bold; }
+
+.job-dates {
+  position: absolute; left: 350px;
+  font-size: 0.8em;
+}
+
+#education span {font-family: font1-bold; }
+
+
+#about-content h1 {
+  font-family: font1-bold;
+  font-size: 1.5em;
+  color: black;
+  line-height: 2rem;
+  margin-top: -10px;
+  text-align: center;
+}
+
+#about-content h2 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.25);
+  border: 1px solid #555;
+  font-family: font1-bold;
+  font-size: 1.75em;
+  font-variant-caps: all-small-caps;
+  margin-bottom: 20px;
+  padding: 1px 0px 4px;
+  text-align: center;
+}
+
+/*  Resume bulleted lists  */
+#about-content ul {
+  margin-top: 0em;
+  text-align: justify;
+  width: 96%;
+}
+
+#about-content ul li { margin-top: 0.5em; }

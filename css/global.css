@@ -1,0 +1,93 @@
+
+
+body {
+	background: linear-gradient(to bottom,  #544759 0%,#9b8d8a 50%,#9b8d8a 53%,#544759 100%);
+	font-family: font1-roman;
+	font-size: 0.9em;
+	font-kerning: 0.01em;
+	color: black;
+	line-height: 1.2em;
+	padding-top: 20px;
+}
+
+body strong { font-family: font1-bold; }
+
+.navbar-brand.mb-1.h1 {	margin-top: 0.25rem; }
+
+.bg-dark { background-color: #2b292d !important; }
+
+
+.white-wrapper {
+	background: rgba(255, 255, 255, 0.5);
+	border-radius: 5px;
+	margin: 20px auto;
+	padding: 20px 20px;
+	overflow: auto;
+}
+
+#index-content h1 { color: #554b5a; }
+
+#index-content hr {
+	background-color: #554b5a;
+	border: none;
+	height: 2px;
+}
+
+#index-content .row { margin-top: 10px; }
+
+#index-content .col-md-4 {
+	text-align: center;
+}
+
+#index-content .row .caption {
+	font-size: 13px;
+	color: #554b5a;
+	padding: 4px 0px;
+	text-align: center;
+}
+
+#index-content .repo-link {
+	font-size: 12px;
+	color: #2f4ca3;
+	margin: 0px 10px;
+}
+
+
+
+/*  =====  ABOUT ME  =====  */
+
+.img-thumbnail {
+	border: none;
+	box-shadow: 3px 3px 5px 1px #778;
+	padding: 0px;
+	margin: 0px 10px 10px 0px;
+	float: left;
+}
+
+
+
+/*	=====  CONTACT PAGE	=====	*/
+
+label {
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #999;
+}
+
+input, textarea {
+	margin: 5px 0px 15px;
+	width: 99%;
+}
+
+textarea {
+	border: 1px solid #d6d6d6;
+	margin: 5px 0px;
+	height: 200px;
+}
+
+button {
+	background-color: #2f4ca3;
+	color: white;
+	font-size: 12px;
+	padding: 5px 15px;
+}
