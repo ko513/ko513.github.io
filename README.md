@@ -1,7 +1,3 @@
 # ko513.github.io
-Tuesday February 19 class exercise
+Main GitHub site, with links to all of work completed during the Rutgers Coding Bootcamp. The Responsive Portfolio page also has a link to my legacy personal site, earlier using self-taught skills.
 
-Updates 2019-05-27
-
-- Refreshed About page to include latest resume
-- Revised & reorganized CSS data into several include files for more consistency

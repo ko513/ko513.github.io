@@ -56,13 +56,7 @@ body strong { font-family: font1-bold; }
 
 /*  =====  ABOUT ME  =====  */
 
-.img-thumbnail {
-	border: none;
-	box-shadow: 3px 3px 5px 1px #778;
-	padding: 0px;
-	margin: 0px 10px 10px 0px;
-	float: left;
-}
+#about-content.white-wrapper { background: rgba(255, 255, 255, 0.7; }
 
 
 
